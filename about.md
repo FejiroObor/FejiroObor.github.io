@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hey there! My name is Fejiro
 
 ### More Information
 
-Hey there! My name is Fejiro and I am an aspiring Data Scientist.
+I am an aspiring Data Scientist.
 
 ### Contact me
 
